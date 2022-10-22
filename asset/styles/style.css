@@ -1,3 +1,22 @@
-*{
-    margin: ;
+
+body {
+    background-image: linear-gradient(#fff), url(https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute-page-main-image.jpg);
+    font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.5;
+    text-align: block;
+    color: #333;
+    margin: auto;
+    max-width: 500px;
+    padding: 10%;
+}
+#image {
+    background-color: aliceblue;
+    width: 120%;
+    display: initial;
+    margin-left: auto;
+    padding: auto;
+}
+#image-caption {
+    text-align: inherit;
 }
