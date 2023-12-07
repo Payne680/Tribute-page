@@ -1,0 +1,37 @@
+
+body {
+    background-image: linear-gradient(#fff), url(https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute-page-main-image.jpg);
+    font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.5;
+   background-color: rgb(172, 168, 168);
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: o;
+    line-height: 1.8;
+}
+p {
+    font-size: 25px;
+
+}
+.image {
+    width: 100%;
+    display: center;
+    padding: 5px;
+    
+}
+#image-caption {
+    text-align: inherit;
+}
+
+.img {
+  background-color: #efdedec0;
+}
+
+ul {
+  text-align: left;
+  max-width: 700px;
+}
